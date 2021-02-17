@@ -23,8 +23,8 @@ body {
     height: 1px;
 }
 
-.black {
-    background-color: black;
+.yellow {
+    background-color: yellow;
 }
 
 .container {
@@ -42,8 +42,6 @@ body {
     width: 40px;
 }
 
-
-
 .button {
 	margin: 5px 0;
     background-color:#ededed;
@@ -56,9 +54,11 @@ body {
 	padding:11px 26px;
 	text-decoration:none;
 }
+
 .button:hover {
 	background-color:#f0d17a;
 }
+
 .button:active {
 	position:relative;
 	top:1px;
